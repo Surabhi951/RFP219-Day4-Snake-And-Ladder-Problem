@@ -36,4 +36,5 @@ public class SnakeAndLadder {
         }
         System.out.println("Player1 won: " + player1Position);
     }
+
 }
